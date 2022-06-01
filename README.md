@@ -5,7 +5,7 @@
 - 🔭 I 'm interested in computer science 
 - 🌱 I’m currently learning machine learning 🤣
 - 👯 I’m looking to collaborate in python proyects
-- 🥅 2021 Goals: Make a website with Django
+- 🥅 2022 Goals: Make a website with Django
 - ⚡ Fun fact: I love to play bass
 ### Connect with me:
 
